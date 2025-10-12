@@ -1,0 +1,29 @@
+{
+  "name": "flot-tickrotor",
+  "version": "1.0.0",
+  "description": "Flot plugin to display angled X-axis tick labels",
+  "main": "jquery.flot.tickrotor.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mnofresno/flot-tickrotor.git"
+  },
+  "keywords": [
+    "flot",
+    "jquery",
+    "chart",
+    "plugin",
+    "tickrotor"
+  ],
+  "author": "Mariano Nofresno",
+  "license": "MIT",
+  "peerDependencies": {
+    "jquery": ">=1.8.3",
+    "flot": ">=0.8.0"
+  },
+  "files": [
+    "jquery.flot.tickrotor.js",
+    "README",
+    "bower.json"
+  ]
+}
+
